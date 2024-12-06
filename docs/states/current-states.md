@@ -8,7 +8,6 @@ Our current capital city and capital territory is **New Callisto**.
 
 - Alcantara (Joined 2 December 2024)
 - Alola (Joined 25 September 2024)
-- Angriver (Joined 23 October 2022)
 - Anor Londo X (Joined 11 September 2022)
 - Aocia (Joined 15 September 2024)
 - Christopia (Joined 23 October 2023)
