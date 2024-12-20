@@ -37,6 +37,11 @@ Our current capital city and capital territory is **New Callisto**.
 - Karydia Imperial, Karydian Union (Joined 18 September 2022)
 - Mayguow, Karydian Union (Joined 27 October 2024)
 
+## Western Continent States and Territories
+
+### Territories
+- Amicitia (Joined 9 December 2024)
+
 ## Federal Land Districts
 
 - Federal District North
