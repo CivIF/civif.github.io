@@ -68,13 +68,15 @@ This is the page containing a full version of the IF Constitution. If your pull 
 7. The Chancellor reserves the right to veto any Senate bill within 24 hours of its passage of the bill.  
    1. This can be overturned by a two-thirds (⅔) Senate vote that itself can not be vetoed. The Chancellor can not repeatedly veto bills where the Senate has previously overruled a veto.  
 8. To be eligible for the position, the Chancellor and Vice Chancellor must:  
-   1. Have been a primary citizen of the Imperial Federation for at least one month.  
+   1. Have been a primary citizen of the Imperial Federation for at least two months.  
    2. Not be a member of the Imperial Senate or Judiciary.  
-   3. Hold no government or leadership positions in any foreign state or entity, unless approved by the Sovereign and  Judiciary.  
+   3. Not currently hold, or have held, foreign state leadership positions in the prior two months, unless exempted by the Sovereign.  
    4. Have never been convicted of treason against the Imperial Federation, unless the sentence has been commuted or pardoned by the Imperial Senate or the Imperial Judiciary.  
    5. Not be banned from the server.  
+   6. Candidates for Chancellor and Vice Chancellor must have at least 10 hours of in-game activity during the previous 30 days to be eligible.
 9. The Chancellery office is located in the Capital District.  
 10. The Chancellor may perform military actions outside of war, including pearl-on-sight orders and bounty hunting permits.
+11. A person may not serve more than three consecutive terms as Chancellor. They may run again after a one-term break.
 
 ---
 
@@ -84,7 +86,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
    1. Foreign affairs and diplomacy  
    2. Imperial criminal and legal codes  
       1. The senate shall create and legislate a legal code outlining Imperial law. Practical maintenance of the legal code shall be done by the Sovereign and/or their delegate.   
-   3. Military,  defense, and defensive infrastructure  
+   3. Military, defense, and defensive infrastructure  
    4. Imperial civilian infrastructure  
    5. Mediation of disputes between States  
    6. Large-scale interstate projects  
@@ -102,7 +104,9 @@ This is the page containing a full version of the IF Constitution. If your pull 
    4. Senators may abstain from voting. Abstentions disqualify the Senator from the vote, lowering the total amount of votes needed to pass or fail.  
 6. The Senate reserves the right to overturn any decision made by the Chancellor and/or Vice Chancellor by a two-thirds (⅔) vote, and it has supremacy over the Chancellor and Vice Chancellor to enact decisions if a two-thirds (⅔) majority of votes support it.  
 7. Senators must:  
-   1. Be a citizen of the Imperial Federation.   
+   1. Be a primary citizen of the Imperial Federation.   
+      1. Imperial citizens who are primary citizens of allied states may hold the office if granted an exception by the Sovereign.
+      2. Imperial citizens may be indefinitely barred from holding the office if considered a primary citizen of a foreign state, at the request of the Sovereign or Chancellor, and with judiciary approval. The Senate may overturn this decision with a majority vote.
    2. Be a primary citizen of the state they represent.  
    3. Act in the best interest of the Imperial Federation.  
    4. Avoid using their position or powers for personal gain.  
@@ -121,7 +125,8 @@ This is the page containing a full version of the IF Constitution. If your pull 
     1. For each additional 3 active primary citizens plus 1 for every current Senator, the State may send another Senator to the Imperial Senate.  
     2. When the combined primary population of IF territories with non-state status and not holding any other special legal status reaches 3 or more, a territorial senator shall be elected by popular vote of the citizens of those eligible territories to represent the whole of non-state IF territories in the Imperial Senate.  
     3. States can choose whichever method they wish to determine who they send to the Imperial Senate.  
-    4. States are required to re-select their senators within 72 hours of the end of Imperial elections.  
+    4. States are required to re-select their senators within 72 hours of the end of Imperial elections.
+    5. States can only switch senators during the apportionment periods, or if a senator quits or resigns.  
 13. The Senate may declare war by a two-thirds (⅔) vote, and assent from the Sovereign and Chancellor.  
 14. Any amendments to the constitution require the support of two-thirds (⅔) of all members of the Imperial Senate, in addition to assent of the Chancellor and Sovereign.
 
@@ -229,6 +234,10 @@ This is the page containing a full version of the IF Constitution. If your pull 
    2. One or more judges will be chosen by majority vote in the Senate.  
    3. One or more judges will be elected by the citizenry every election cycle.  
    4. The number of judges appointed by the Senate must be equal to the number of judges elected by the citizenry.  
+   5. Judges may not hold the offices of Senator, Vice Chancellor, or Chancellor, during their tenure in office.
+   6. Judges elected by citizens or appointed by the Senate may only serve two consecutive terms before requiring a one-term break.
+   7. Judges must have held Imperial citizenship for at least 2 months prior to appointment or election.
+   8. Judges must be primary citizens of the Imperial Federation.
 2. The Imperial Judiciary shall have criminal jurisdiction over:  
    1. Crimes committed in multiple States by the same person.  
    2. Crimes of espionage or treason committed against the Imperial Federation.  
@@ -251,12 +260,15 @@ This is the page containing a full version of the IF Constitution. If your pull 
 6. Defendants may appeal their case to the Imperial Judiciary if they believe they have had an unjust trial. The Judiciary reserves the right to deny an appeal for any reason.  
 7. Judges may be removed by a senate resolution through a two-thirds (⅔) Senate vote.  
    1. If the Royal Judge is removed via senate resolution, the Sovereign must reappoint a new Royal Judge immediately.  
-   2. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election  
-8. Judges appointed by the senate cannot preside over cases involving members of the senate.  
-9. The Royal Judge, appointed by the Sovereign, cannot preside over the cases involving the Sovereign as a party in the case.  
-10. Cases before the imperial judiciary may not be based on hypothetical, theoretical, or future disputes, and the judiciary may not issue advisory opinions.  
-11. Judges may be members of political parties, but must not factor or base their actions as Judges on their personal politics or party politics.  
-12. The Judiciary is the final interpreter of the Constitution and any constitutional disputes.
+   2. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election.  
+8. Judges may not preside over cases they have personal involvement in, or a clear present or historical bias.
+   1. Judges appointed by the senate cannot preside over cases involving members of the senate.
+   2. The Royal Judge, appointed by the Sovereign, cannot preside over the cases involving the Sovereign as a party in the case.
+   3. Judges must recuse themselves from cases involving their state of primary citizenship, unless no other judge is available and all parties consent.
+9. Cases before the imperial judiciary may not be based on hypothetical, theoretical, or future disputes, and the judiciary may not issue advisory opinions.  
+10. Judges may be members of political parties, but must not factor or base their actions as Judges on their personal politics or party politics.  
+11. The Judiciary is the final interpreter of the Constitution and any constitutional disputes.
+12. The Judiciary may review and block any candidate, or remove any holder, of high office if it finds probable cause of coordinated foreign interference, control, or treasonous activity. Decisive action requires unanimity in the Judiciary, and approval by the Sovereign.
 
 ---
 
