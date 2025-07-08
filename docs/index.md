@@ -23,8 +23,8 @@ hero:
       text: States
       link: /states/index
     - theme: alt
-      text: Imperial Borders
-      link: /borders/index
+      text: Land Registry
+      link: /land-registry/index
     - theme: alt
       text: New Player Guide
       link: /guides/new-player-guides/index

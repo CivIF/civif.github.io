@@ -47,9 +47,9 @@ export default defineConfig({
         activeMatch: '/states/' 
       },
       {
-        text: 'Land registry',
-        link: '/land-registry/index',
-        activeMatch:'/land-registry'
+        text: 'Imperial Borders',
+        link: '/borders/index',
+        activeMatch:'/borders/'
       },
       { 
         text: 'Edit Guide', 
