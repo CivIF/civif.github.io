@@ -1,15 +1,9 @@
-{% capture territory_details %}
-"nation": "Imperial Federation",
-"website": "{{ site.url }}",
-"color": "#00C9FF"
-{% endcapture %}
 {
   "id": "civmc/if/territory",
-    "name": "Imperial Borders",
-    "info": {
-        "version": "3.0.0-beta3",
-        {% comment %} Use https://www.epochconverter.com/ to update the "last_update" timestamp {% endcomment %}
-        "last_update": 1751967238
+  "name": "Imperial Borders",
+  "info": {
+      "version": "3.0.0-beta3",
+      "last_update": 1751967238
     },
   "features": [
     {
@@ -243,6 +237,6 @@
           [ -1591, -6482 ]
         ]
       ]
-      {{ territory_details }}
     }
+  ]
 }
